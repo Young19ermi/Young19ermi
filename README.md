@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on [Tele-Temari](https://link-to-tele-temari) and [AASTU Maps](https://link-to-aastu-maps)<br>
+🔭 I’m currently working on [Tele-Temari](https://github.com/ADGO-et/teletemari-frontend) and [AASTU Maps](https://github.com/GDSC-AASTU/aastu-map-mobile)<br>
 🤝 I’m looking to collaborate on Frontend Projects<br>
 🚀 I’m currently learning Node.js and Three.js<br>
-🌟 Wanna chat? You can find me on [Instagram](https://instagram.com/young19ermi), [LinkedIn](https://linkedin.com/in/ermias-endale), or via email: [Ermias Seleshi](mailto:ermias.seleshi@example.com).<br>
-🌐 Web Intern at [Eskalate](https://link-to-eskalate) and [Adgo ET](https://link-to-adgo-et).<br>
+🌟 Wanna chat? You can find me on [Instagram](https://instagram.com/young19ermi), [LinkedIn](https://linkedin.com/in/ermias-endale), or via email: [Ermias Seleshi](mailto:ermiasendale19@gmail.com).<br>
+🌐 Web Intern at [Eskalate](https://www.eskalate.io/) and [Adgo ET](https://adgo.et/).<br>
 - 🙏 I love worshipping God and am thankful to be loved by my Heavenly Father.<br>
 - ⚽ Passionate about football.<br>
 - 🎸 Enjoy playing the guitar in my free time.<br>
