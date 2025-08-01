@@ -3,7 +3,7 @@
 🤝 I’m looking to collaborate on Frontend Projects<br>
 🚀 I’m currently learning Node.js and Three.js<br>
 🌟 Wanna chat? You can find me on [Instagram](https://instagram.com/young19ermi), [LinkedIn](https://linkedin.com/in/ermias-endale), or via email: [Ermias Seleshi](mailto:ermiasendale19@gmail.com).<br>
-- 🙏 I love worshipping God and am thankful to be loved by my Heavenly Father.<br>
+
 
 
 
