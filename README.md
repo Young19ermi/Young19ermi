@@ -6,13 +6,12 @@
 </p>
 
 ---
-
 <!-- 🌐 CONNECT -->
 <h3 align="center">🌐 Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ermias-seleshi/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?_=20140125013055"/>
+    <img src="https://img.shields.io/badge/Linkedin-ff006e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
   </a>
   <a href="https://leetcode.com/u/youngermi/">
     <img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a"/>
@@ -41,11 +40,11 @@
 ## ⚙️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,threejs,tailwind&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,javascript,typescript,threejs,react,nextjs,redux,fastapi,firebase,django,figma&theme=dark" />
+  <img src="https://iconic-api.onrender.com/dark/jira" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/websocket" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/websocket" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/flutter" width="64px" />
 </p>
 
 ---
