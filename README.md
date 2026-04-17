@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ermias-seleshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?_=20140125013055"/>
   </a>
   <a href="https://leetcode.com/u/youngermi/">
-    <img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"/>
+    <img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a"/>
   </a>
   <a href="mailto:ermiasendale19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-e11d48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
@@ -69,10 +69,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Young19ermi&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Young19ermi&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Young19ermi&theme=github_dark"/>
-</p>
+</p> -->
 
 ---
 
