@@ -41,10 +41,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,javascript,typescript,threejs,react,nextjs,redux,fastapi,firebase,django,figma&theme=dark" />
-  <img src="https://iconic-api.onrender.com/dark/jira" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/websocket" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/websocket" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/flutter" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/jira" width="54px" />
+  <img src="https://iconic-api.onrender.com/dark/android" width="50px" />
+  <img src="https://iconic-api.onrender.com/dark/websocket" width="32px" />
+  <img src="https://iconic-api.onrender.com/dark/flutter" width="40px" />
 </p>
 
 ---
