@@ -2,21 +2,27 @@
 <h3 align="center">Frontend • 3D Web • Interactive Experiences</h3>
 
 <p align="center">
-  Crafting immersive, motion-driven web experiences with clean and modern UI.
+  Crafting immersive, motion-driven web experiences with sleek and modern UI.
 </p>
 
+---
+
+<!-- 🌐 CONNECT -->
+<h3 align="center">🌐 Connect</h3>
+
 <p align="center">
-  <a href="https://instagram.com/young19ermi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/ermias-seleshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
   </a>
   <a href="https://leetcode.com/u/youngermi/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0f172a"/>
   </a>
   <a href="mailto:ermiasendale19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-e11d48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
+  </a>
+  
+  <a href="https://t.me/Youngermi">
+    <img src="https://img.shields.io/badge/Telegram-ff006e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a"/>
   </a>
 </p>
 
@@ -32,10 +38,14 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,threejs,redux,firebase,django,figma,git,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,threejs,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,javascript,typescript,threejs,react,nextjs,redux,fastapi,firebase,django,figma&theme=dark" />
 </p>
 
 ---
@@ -53,17 +63,23 @@
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Young19ermi&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Young19ermi&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Young19ermi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Young19ermi&theme=github_dark"/>
 </p>
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Current Focus
 
-<p align="center">
-  Minimal • Sleek • Immersive <br/><br/>
-  Building experiences that feel alive — not just interfaces.
-</p>
+```txt
+→ Building high-end 3D web experiences
+→ Motion + interaction driven UI
+→ Pushing frontend beyond static interfaces
+```
